@@ -1,0 +1,17 @@
+- **Firestore**: Primary state store for neural configurations
+- **Realtime Database**: Live trading signals and market states
+- **Firebase Cloud Messaging**: Alert system for critical events
+
+## Technical Stack
+- Python 3.9+ with type hints throughout
+- TensorFlow 2.x for neural networks
+- Firebase Admin SDK for state management
+- CCXT for cryptocurrency exchange integration
+- Apache Kafka for event streaming (optional scaling)
+- Docker for containerization
+
+## Performance Targets
+- < 100ms inference latency
+- < 5 minutes for architecture evolution cycles
+- 99.9% data pipeline uptime
+- Support for 50+ concurrent trading pairs
