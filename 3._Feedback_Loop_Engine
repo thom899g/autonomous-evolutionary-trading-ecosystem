@@ -1,0 +1,3 @@
+- **Multi-timescale Adaptation**: Fast (seconds) and slow (hours) learning cycles
+- **Causal Inference Module**: Distinguishes correlation from causation
+- **Strategy Memory Bank**: Stores and retrieves historical strategies
